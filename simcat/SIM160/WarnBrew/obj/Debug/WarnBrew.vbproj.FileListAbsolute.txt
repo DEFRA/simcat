@@ -1,0 +1,11 @@
+c:\WARNBREW\WarnBrew\bin\Debug\WarnBrew.exe.config
+c:\WARNBREW\WarnBrew\bin\Debug\WarnBrew.exe
+c:\WARNBREW\WarnBrew\bin\Debug\WarnBrew.pdb
+c:\WARNBREW\WarnBrew\bin\Debug\WarnBrew.xml
+c:\WARNBREW\WarnBrew\obj\Debug\WarnBrew.vbprojResolveAssemblyReference.cache
+c:\WARNBREW\WarnBrew\obj\Debug\WarnBrew.Start1.resources
+c:\WARNBREW\WarnBrew\obj\Debug\WarnBrew.Resources.resources
+c:\WARNBREW\WarnBrew\obj\Debug\WarnBrew.vbproj.GenerateResource.Cache
+c:\WARNBREW\WarnBrew\obj\Debug\WarnBrew.exe
+c:\WARNBREW\WarnBrew\obj\Debug\WarnBrew.xml
+c:\WARNBREW\WarnBrew\obj\Debug\WarnBrew.pdb

@@ -16,7 +16,7 @@ The Environment Agency has made SIMCAT available as Open-Source software and is 
 
 To download the latest version, go to [Releases](/executables/README.md)
 
-To read the manual, go to [Documentation](/docs)
+To read the manual, go to [Documentation](/docs). This includes a presentation and personal note from SIMCAT's developer Tony Warn.
 
 ## Installation
 
